@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Leianny!
 
-#### 🌱 I’m currently learning SpringBoot and android studio using Java.
+#### 🌱 I’m currently learning SpringBoot and android studio using Java also learning Flutter using Dart.
 #### 😄 Pronouns: she/Her
 
 ##
